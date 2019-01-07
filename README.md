@@ -9,3 +9,5 @@
 #### Use Project2_ExploratoryAnalysis.py for exploratory analysis and Project2_PredictiveAnalysis.py for predictive analysis
 #### dataset3.csv is the combined dataset after cleaning and analysis
 
+## Do visualization
+#### Use Project_Part3.py for additional analysis and visualizations.
